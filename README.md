@@ -1,5 +1,7 @@
 # Mouse Scroll Control
 
+![scroller image](image.png "Title")
+
 ## Overview
 This program allows you to control mouse scrolling using a simple Tkinter GUI. You can adjust the scroll speed and choose the scroll direction (up or down). 
 
